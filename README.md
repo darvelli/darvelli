@@ -5,4 +5,4 @@
    <a href="https://br.linkedin.com/in/izailmasilva" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/IzaDarvel/IzaDarvel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/darvelli/darvelli/blob/output/github-contribution-grid-snake.svg)
